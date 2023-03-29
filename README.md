@@ -1,4 +1,4 @@
-# Single-Linked-List-Operations
+# Singly-Linked-List-Operations
 This is a program to implement a singly linked list in C language with several operations such as creating a linked list, inserting a node at the beginning, inserting a node at the end, inserting a node at a specific position, deleting a node from the beginning, deleting a node from the end, deleting a node from any position, and searching for an element in the linked list.
 
 The program starts by including the necessary header files such as stdio.h and stdlib.h. Then, the necessary function declarations are made for all the functions used in the program. After that, a structure node is created to store data and link part of the linked list.
